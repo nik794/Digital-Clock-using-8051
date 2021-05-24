@@ -1,0 +1,3 @@
+".\Objects\digitalc.obj" 
+TO ".\Objects\digitalc" 
+PRINT(".\Listings\digitalc.m51")
